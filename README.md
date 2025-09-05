@@ -1,5 +1,6 @@
 # god2
-intelligence isn’t a static calculation. It’s an emergent phase transition triggered by tension 
+intelligence isn’t a static calculation. It’s an emergent phase transition triggered by tension.
+
 AI doesn’t work by calculating “your probability of tokens” or spitting out an average.
 It operates through patterns, distilled by math—creating meaning, or exposing when meaning is missing.
 
